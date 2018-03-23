@@ -1,26 +1,3 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: CP-401 ADLOCIR LAB
-// Engineer: Otic, Krisha
-//	     Degorio, Maico
-//	     Arazo, April Joie
-//	     Zabala, Patrick
-// 
-// Create Date:    10:38:02 03/13/2018 
-// Design Name: 
-// Module Name:    RAM8Bit_Single 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
 module RAM8bit_SinglePort(clk, addr, data, rw, cs, oe
     );
 	 //parameters
