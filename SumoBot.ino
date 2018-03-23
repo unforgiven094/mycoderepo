@@ -1,3 +1,4 @@
+//Code for hacking 2 dc motor used in Toy RC
 
 int motorlc = 8; // ---->forward
 int motorla = 9; //  ---->backward
